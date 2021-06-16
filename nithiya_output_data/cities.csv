@@ -1,6 +1,6 @@
-city,lat,long,temp,humidity,cloudiness,wind speed
-clyde river,70.4692,-68.5914,-1.87,100,90,1.54
-sfantu gheorghe,45.8667,25.7833,10.03,90,100,2.33
-cape town,-33.9258,18.4232,10.07,97,75,0.45
-dawlatabad,36.4141,64.9053,33.25,11,0,2.25
-punta arenas,-53.15,-70.9167,3.06,87,75,7.2
+city,lat,long,temp,temp_max,humidity,cloudiness,wind speed
+barrow,71.2906,-156.7887,3.01,3.01,87,1,6.69
+rikitea,-23.1203,-134.9692,23.89,23.89,77,100,9.48
+khatanga,71.9667,102.5,22.05,22.05,41,96,7.28
+bereda,43.2686,-7.5406,20.08,21.34,87,92,0.45
+hilo,19.7297,-155.09,21.14,25.71,73,1,3.6
